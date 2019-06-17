@@ -1,2 +1,2 @@
 # scrollEventChecker
-Javascript class to add animation on elements when scrolling down
+> Javascript class to add animation on elements when scrolling down
