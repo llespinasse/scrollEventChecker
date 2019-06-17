@@ -16,7 +16,7 @@ var srollAnimation = function(obj) {
 }
 
 var myAnimation = new srollAnimation ({
-  className: 'desc-box',
+  className: 'myDiv',
   gap: 100,
   callback: callbackFunc,
 });
